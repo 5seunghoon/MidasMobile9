@@ -9,3 +9,4 @@
 app/app.iml
 *.iml
 /server/node_modules
+/server/public/uploads
