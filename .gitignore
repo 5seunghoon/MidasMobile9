@@ -8,3 +8,4 @@
 /.idea/misc.xml
 app/app.iml
 *.iml
+/server/node_modules
