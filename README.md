@@ -5,6 +5,11 @@
 ## 개요
 사내 카페의 음료를 주문 및 관리자에 의한 관리
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/26534434/53785228-1ea1ba00-3f5b-11e9-8aa9-04d771391edf.png)
+![image](https://user-images.githubusercontent.com/26534434/53785231-206b7d80-3f5b-11e9-83ca-876b9c6f9754.png)
+![image](https://user-images.githubusercontent.com/26534434/53785220-1b0e3300-3f5b-11e9-91ca-babc6a487ac5.png)
+
 
 ## 기능
 
